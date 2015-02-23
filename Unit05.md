@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENVS203: Environmental Ethics, Justice, and World Views"
+course_description: "An introduction to the concept of environmental ethics - a philosophy that extends the ethical concepts traditionally applied to human behavior to address the entire natural world."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Environmental Law** <span id="5"></span> 
 *While moral codes and ethics are considered the foundations of our
 attitudes towards our environment, these positions are often forgotten
